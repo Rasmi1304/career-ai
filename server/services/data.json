@@ -1,0 +1,55 @@
+{
+  "applications": [
+    {
+      "id": "7fvkv59nd",
+      "role": "frontend intern",
+      "company": "flipkart",
+      "result": "rejected",
+      "reason": "rejected after hr round\n",
+      "timestamp": "2026-03-21T07:09:00.981Z"
+    },
+    {
+      "id": "k28q2z563",
+      "role": "frontend intern",
+      "company": "flipkart",
+      "result": "pending",
+      "reason": "",
+      "timestamp": "2026-03-21T07:20:44.389Z"
+    }
+  ],
+  "skills": [
+    {
+      "id": "iubrnwiod",
+      "name": "react",
+      "proficiency": "Beginner",
+      "timestamp": "2026-03-21T07:21:02.049Z"
+    },
+    {
+      "id": "ehbzxlm8e",
+      "name": "dsa",
+      "proficiency": "Intermediate",
+      "timestamp": "2026-03-21T07:21:12.266Z"
+    },
+    {
+      "id": "wsekfsw5w",
+      "name": "html,css,js",
+      "proficiency": "Advanced",
+      "timestamp": "2026-03-21T07:21:26.851Z"
+    },
+    {
+      "id": "04rna4jto",
+      "name": "english",
+      "proficiency": "Expert",
+      "timestamp": "2026-03-21T07:21:40.782Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "b9lz8jv76",
+      "title": "AI plant disease analyzer",
+      "description": "a website which analyzes the weeds in the crop and suggests remedies and it detects the crop diseases aswell",
+      "tools": "react,flask,ai,cvml",
+      "timestamp": "2026-03-21T07:23:56.035Z"
+    }
+  ]
+}
