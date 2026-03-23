@@ -86,7 +86,7 @@ https://career-ai-peach.vercel.app/
 
 ## 🎥 Demo Video
 
-https://drive.google.com/file/d/1pxLOeK8OpkOgW2MtuDnbv7OZQyFbJzvd/view?usp=sharing
+https://drive.google.com/file/d/1LbdSfqoUZSGvDI6xTCD0fhhM_9iWA9js/view?usp=sharing
 
 ---
 
